@@ -32,6 +32,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update references of `master` branch to `main`.
 - Fix Doc Generation.
 - Update `azure-pipelines` to use latest pattern.
+- Use variable in `azure-pipelines`.
+- Fix HQRM not outputting test results.
 
 ### Added
 
